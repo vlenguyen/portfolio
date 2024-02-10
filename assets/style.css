@@ -58,6 +58,7 @@ main {
     flex: 0 0 78%;
 }
 
+/* Work section */
 span img {
         object-fit: cover;
         opacity: 0.4;
@@ -81,7 +82,7 @@ span img:hover {
 
 .bottom-left {
     position: absolute;
-    bottom: 25px;
+    bottom: 30px;
     left: 16px;
     background-color: blue;
   }
@@ -92,6 +93,7 @@ span img:hover {
     background-color: blue;
 }
 
+/* Contact section */
 footer div {
     display: flex;
     justify-content: space-between;
